@@ -18,7 +18,7 @@ KEY =
     };
 function updateSnakeByKey(e)
 {
-    //does this update
+    //does this updatea das dasd asd asd
     var keyNum = e.keyCode;
     console.log(keyNum);
     console.log(keyNum);
