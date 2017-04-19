@@ -1,5 +1,6 @@
 /**
  * Created by Brian Rasmussen on 4/17/2017.
+ * updated by Jason yo
  */
 DIRECTION = {
 	RIGHT: 'RIGHT',
